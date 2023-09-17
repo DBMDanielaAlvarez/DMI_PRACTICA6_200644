@@ -40,10 +40,10 @@ Las siguientes imagenes son la muestra de la salida de datos o el cambio de esta
 
 Para los cambios de estado, se muestran los siguientes datos, que se encuentran en un arreglo de datos.
 <p>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/dos.jpg" width="25%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/tres.jpg" width="25%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cuatro.jpg" width="25%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cinco.jpg" width="25%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/dos.jpg" width="15%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/tres.jpg" width="15%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cuatro.jpg" width="15%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cinco.jpg" width="15%"/>
 </p>
 
 
