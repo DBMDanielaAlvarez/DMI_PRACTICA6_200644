@@ -21,7 +21,7 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 3: Aplicación Stateful |
+| Nombre  |  Práctica 6: Aplicación Stateful |
 | Descripción  |  En esta aplicación se esta utilizando los widgets de tipo Stateful, los cuales son aquellos que cuentan con un estado; pueden ser modificados dependiendo a como se indique en código|
 |  Fecha de Actividad  |  15 de Septiembre de 2023  |
 
@@ -31,7 +31,6 @@
 &nbsp;
 &nbsp;
 
-[![Captura-de-pantalla-2023-09-15-140629.png](https://i.postimg.cc/50pP4NPY/Captura-de-pantalla-2023-09-15-140629.png)](https://postimg.cc/2bbdTmNr)
 
 <br>
 <br>
