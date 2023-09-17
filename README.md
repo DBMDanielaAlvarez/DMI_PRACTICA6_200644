@@ -33,11 +33,16 @@
 
 ## Salida
 
-Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra cada vez que se da un click al botón.
+Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra cada vez que se da un click al botón. la pantalla principal solo cuenta con un botón principal como el siguiente.
 <p align="center">
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/uno.jpg" width="30%"/>
 </p>
 
+Para los cambios de estado, se muestran los siguientes datos, que se encuentran en un arreglo de datos.
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/dos.jpg" width="25%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/tres.jpg" width="25%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cuatro.jpg" width="25%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cindo.jpg" width="25%"/>
 <br>
 <br>
 <br>
