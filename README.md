@@ -42,6 +42,8 @@ Para los cambios de estado, se muestran los siguientes datos, que se encuentran 
 <p>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/dos.jpg" width="25%"/>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/tres.jpg" width="25%"/>
+</p>
+<p>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cuatro.jpg" width="25%"/>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cindo.jpg" width="25%"/>
 </p>
