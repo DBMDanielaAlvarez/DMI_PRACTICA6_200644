@@ -33,6 +33,10 @@
 
 ## Salida
 
+Las siguientes imagenes son la muestra de la salida de datos o el cambio de estado que muestra cada vez que se da un click al botón.
+<p align="center">
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/uno.jpg" width="30%"/>
+</p>
 
 <br>
 <br>
